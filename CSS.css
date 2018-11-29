@@ -1,8 +1,7 @@
 
-/* root { 
+ root { 
     display: block;
 }
-*/
 
 body {
     margin: 0;
@@ -24,12 +23,12 @@ body {
 }
 #Planta {
     padding-top: 40px;
-    position: absolute;
+    position: relative;
     width: auto;
     height: auto;
 	margin-right: auto;
 	margin-top: auto;
-	margin-left: 300px;
+	margin-left: auto;
         font-size: 30px;
         color: black;
         text-align: center;
