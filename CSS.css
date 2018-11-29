@@ -23,16 +23,7 @@ body {
 }
 #Planta {
     padding-top: 40px;
-    position: relative;
-    width: auto;
-    height: auto;
-	margin-right: auto;
-	margin-top: auto;
-	margin-left: auto;
-        font-size: 30px;
-        color: black;
-        text-align: center;
-        font-family: arial;
+  padding-left: 200px;
 }
 
 
