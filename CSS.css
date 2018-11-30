@@ -155,6 +155,7 @@ div.rele2_desligado {
 	font-family:arial;
 	font-size:18pt;
 	font-weight:bold;
+	z-index=1;
 
 }
 
