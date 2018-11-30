@@ -147,3 +147,14 @@ div.rele2_desligado {
 	position:relative;
 	top:1px;
 }
+
+#consumo {
+	top: 350px;
+	position: absolute;
+	right: 150px;
+	font-family:arial;
+	font-size:18pt;
+	font-weight:bold;
+
+}
+
